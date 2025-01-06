@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarowiwa
-- 👀 I’m interested in making application software
-- 🌱 I’m currently learning html,css,javascript and bootstrap
-- 💞️ I’m looking to collaborate on making a mobile up
+- 👀 I’m interested in making application software &web development
+- 🌱 I’m currently learning django,python,javascript and bootstrap
+- 💞️ I’m looking to collaborate on making a mobile app
 - 📫 How to reach me sarowiwaken001@gmail.com
 
 <!---
